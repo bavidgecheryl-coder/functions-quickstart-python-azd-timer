@@ -1,6 +1,6 @@
 <!--
 ---
-name: Azure Functions Python Timer Trigger using Azure Developer CLI
+name: MOTEB.M.A.Alotaibi 
 description: This repository contains an Azure Functions timer trigger quickstart written in Python v2 and deployed to Azure Functions Flex Consumption using the Azure Developer CLI (azd). The sample uses managed identity and a virtual network to make sure deployment is secure by default.
 page_type: sample
 products:
